@@ -4,7 +4,7 @@ This is the Github Organization for the course [Modelling and Simulation TTK4130
 
 ## Github issues and suggestions
 
-We encourage students to submit Github issues for issues, bugs and suggestions for improvements (follow this link for a quick guide on how to submit an issue to a Github repository). However, we expect the submitted issues to follow some simple guidelines:
+We encourage students to submit Github issues for issues, bugs and suggestions for improvements (follow [this link](https://docs.github.com/en/issues/tracking-your-work-with-issues/configuring-issues/quickstart) for a quick guide on how to submit an issue to a Github repository). However, we expect the submitted issues to follow some simple guidelines:
 
   - Be nice ☺️
   - Avoid duplication
