@@ -1,6 +1,6 @@
 # Welcome to Modelling and Simulation TTK4130 👋
 
-This is the Github Organization for the course [TTK4130 Modelling and Simulation](https://www.ntnu.edu/studies/courses/TTK4130#tab=omEmnet) at NTNU. To view the online assignments, go to the [course website](https://ttk4130.github.io) or to the repository hosting the site source code [here](https://github.com/ttk4130/ttk4130.github.io).
+This is the Github Organization for the course [Modelling and Simulation TTK4130](https://www.ntnu.edu/studies/courses/TTK4130#tab=omEmnet) at NTNU. To view the online assignments, go to the [course website](https://ttk4130.github.io) or to the repository hosting the site source code [here](https://github.com/ttk4130/ttk4130.github.io).
 
 ## Github issues and suggestions
 
